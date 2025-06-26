@@ -6,23 +6,24 @@ This is my machine learning project developed as part of the AICTE Virtual Inter
 ## **Project Overview**
 Access to clean water is a global priority. Accurate and timely prediction of key water quality indicators can help protect communities and ecosystems by enabling quick action.
 
-In this project, I:
--Collected and preprocessed real-world water quality datasets.
--Built a multi-target regression pipeline using MultiOutputRegressor with RandomForestRegressor.
--Evaluated model performance using relevant regression metrics.
--Added a classification feature to label water samples as Safe or Unsafe based on threshold criteria.
--Enhanced visualization by adding a Safe/Unsafe column with green and red color codes.
--Created a pie chart to visualize proportions of safe vs unsafe water samples.
--Designed a bar chart to compare the counts of safe and unsafe samples.
+In this project, I:  
+- Collected and preprocessed real-world water quality datasets  
+- Built a multi-target regression pipeline using MultiOutputRegressor with RandomForestRegressor  
+- Evaluated model performance using relevant regression metrics  
+- Added a classification feature to label water samples as Safe or Unsafe based on threshold criteria  
+- Enhanced visualization by adding a Safe/Unsafe column with green and red color codes  
+- Created a pie chart to visualize proportions of safe vs unsafe water samples  
+- Designed a bar chart to compare the counts of safe and unsafe samples
 
 ---
 
 ## **Technologies Used**
--Python 3.12
--Pandas, NumPy (data handling)
--Scikit-learn (model building & evaluation)
--Matplotlib, Seaborn (visualization)
--Jupyter Notebook (experimentation and documentation)
+- Python 3.12  
+- Pandas, NumPy (data handling)  
+- Scikit-learn (model building & evaluation)  
+- Matplotlib, Seaborn (visualization)  
+- Jupyter Notebook (experimentation and documentation)
+
 
 ---
 
@@ -41,8 +42,8 @@ The model predicts multiple parameters, including:
 
 ## **Model Performance**
 I evaluated the model using:
--R² Score
--Mean Squared Error (MSE)
+- R² Score  
+- Mean Squared Error (MSE)
 
 ----
 
@@ -52,8 +53,8 @@ I evaluated the model using:
 ---
 
 ## **Internship Details**
--Type: AICTE Virtual Internship (Edunet Foundation)
--Sponsor: Shell
--Duration: June 2025 (1 month)
--Focus Area: Machine Learning in Environmental Monitoring
+- Type: AICTE Virtual Internship (Edunet Foundation)  
+- Sponsor: Shell  
+- Duration: June 2025 (1 month)  
+- Focus Area: Machine Learning in Environmental Monitoring
 
