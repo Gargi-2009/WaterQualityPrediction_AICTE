@@ -52,8 +52,8 @@ I evaluated the model using:
 ---
 
 ## **Internship Details**
-Type: AICTE Virtual Internship (Edunet Foundation)
-Sponsor: Shell
-Duration: June 2025 (1 month)
-Focus Area: Machine Learning in Environmental Monitoring
+-Type: AICTE Virtual Internship (Edunet Foundation)
+-Sponsor: Shell
+-Duration: June 2025 (1 month)
+-Focus Area: Machine Learning in Environmental Monitoring
 
