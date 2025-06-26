@@ -1,6 +1,8 @@
 # **Water-Quality-Prediction-AICTE**
 This is my machine learning project developed as part of the AICTE Virtual Internship in collaboration with Edunet Foundation, sponsored by Shell, during June 2025. The goal of the project is to predict multiple water quality parameters to support early detection of water pollution and improve environmental monitoring.
+
 ---
+
 ## **Project Overview**
 Access to clean water is a global priority. Accurate and timely prediction of key water quality indicators can help protect communities and ecosystems by enabling quick action.
 
@@ -15,7 +17,7 @@ In this project, I:
 
 ---
 
-##**Technologies Used**
+## **Technologies Used**
 -Python 3.12
 -Pandas, NumPy (data handling)
 -Scikit-learn (model building & evaluation)
@@ -24,7 +26,7 @@ In this project, I:
 
 ---
 
-##**Predicted Water Quality Parameters**
+## **Predicted Water Quality Parameters**
 The model predicts multiple parameters, including:
 -NH4 (Ammonium)
 -BOD5 (BSK5)
@@ -37,19 +39,19 @@ The model predicts multiple parameters, including:
 
 ---
 
-##**Model Performance**
+## **Model Performance**
 I evaluated the model using:
 -R² Score
 -Mean Squared Error (MSE)
 
 ----
 
-##**Model Link**
+## **Model Link**
 
 
 ---
 
-##**Internship Details**
+## **Internship Details**
 Type: AICTE Virtual Internship (Edunet Foundation)
 Sponsor: Shell
 Duration: June 2025 (1 month)
