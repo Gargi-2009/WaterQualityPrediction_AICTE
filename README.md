@@ -28,14 +28,14 @@ In this project, I:
 
 ## **Predicted Water Quality Parameters**
 The model predicts multiple parameters, including:
--NH4 (Ammonium)
--BOD5 (BSK5)
--O2 (Dissolved Oxygen)
--NO3 (Nitrate)
--NO2 (Nitrite)
--SO4 (Sulfate)
--PO4 (Phosphate)
--CL (Chloride)
+- NH4 (Ammonium)  
+- BOD5 (BSK5)  
+- O2 (Dissolved Oxygen)  
+- NO3 (Nitrate)  
+- NO2 (Nitrite)  
+- SO4 (Sulfate)  
+- PO4 (Phosphate)  
+- CL (Chloride)
 
 ---
 
